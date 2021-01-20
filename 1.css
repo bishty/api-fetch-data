@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(160, 226, 212);
+}
+#head{
+    /* border: 3px solid red; */
+    padding-left: 27px;
+    padding-bottom: 45px;
+    
+    
+}
+#select{
+  
+   font-family: 'Potta One', cursive;
+}
+#btn{
+   background-color: rgb(219, 143, 158);
+   border-radius: 45px;
+   font-family: 'Potta One', cursive;
+}
